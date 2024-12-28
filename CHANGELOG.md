@@ -1,5 +1,11 @@
 # @browserbasehq/stagehand
 
+## 1.8.1
+
+### Patch Changes
+
+- [#344](https://github.com/browserbase/stagehand/pull/344) [`c1cf345`](https://github.com/browserbase/stagehand/commit/c1cf34535ed30262989b1dbe262fb0414cdf8230) Thanks [@kamath](https://github.com/kamath)! - Remove duplicate logging and expose Page/BrowserContext types
+
 ## 1.8.0
 
 ### Minor Changes
